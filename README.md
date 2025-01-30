@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML-black?style=flat&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS-black?style=flat&logo=css3" />
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3" />
   <img src="https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript" />
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/-Java-black?style=flat&logo=java" />
