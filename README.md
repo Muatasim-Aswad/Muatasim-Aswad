@@ -1,16 +1,42 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML-black?style=flat&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS-black?style=flat&logo=css3" />
+  <img src="https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript" />
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Java-black?style=flat&logo=java" />
+  <img src="https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus" />
+</p>
 
-<!--
-**Muatasim-Aswad/Muatasim-Aswad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-black?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-Redux-black?style=flat&logo=redux" />
+  <img src="https://img.shields.io/badge/Material%20UI-black?style=flate&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/-Express-black?style=flat&logo=express" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Hi there 👋 If you're interested in collaborating or discussing any projects, feel free to reach out. Happy coding! 😄
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muatasim-Aswad&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muatasim-Aswad&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Muatasim-Aswad/count.svg" alt="Visitor Count" />
+</p>
