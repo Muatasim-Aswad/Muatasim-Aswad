@@ -24,6 +24,16 @@
 </p>
 
 <p align="center">
+  Learning or Plan to Learn:<br><br>
+  <img src="https://img.shields.io/badge/-Java%20Spring-black?style=flat&logo=spring" />
+  <img src="https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js" />
+  <img src="https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-Vue.js-black?style=flat&logo=vue.js" />
+  <img src="https://img.shields.io/badge/-Nuxt.js-black?style=flat&logo=nuxt.js" />
+</p>
+
+
+<p align="center">
   Hi there 👋 If you're interested in collaborating or discussing any projects, feel free to reach out. Happy coding! 😄
 </p>
 
