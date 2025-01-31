@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/-Vue.js-black?style=flat&logo=vue.js" />
   <img src="https://img.shields.io/badge/-Nuxt.js-black?style=flat&logo=nuxt.js" />
+  <img src="https://img.shields.io/badge/-Redis-black?style=flat&logo=redis" />
 </p>
 
 
