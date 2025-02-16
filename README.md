@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  Learning or Plan to Learn:<br><br>
+  Exploring, Learning, or Planning to Learn:<br><br>
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
@@ -39,13 +39,17 @@
   -
   <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white" />
-  -
+  <br>
   <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/-WebSockets-010101?style=flat&logo=socket.io&logoColor=white" />
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  -
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/-CI/CD-FF9900?style=flat&logo=githubactions&logoColor=white" />
+  -
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" />
 </p>
 
 
