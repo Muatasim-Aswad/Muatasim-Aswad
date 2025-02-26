@@ -74,13 +74,19 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muatasim-Aswad&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muatasim-Aswad&theme=react" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muatasim-Aswad&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muatasim-Aswad&show_icons=true&theme=react&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muatasim-Aswad&layout=compact&theme=react" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/Muatasim-Aswad/count.svg" alt="Visitor Count" />
 </p>
+
+
