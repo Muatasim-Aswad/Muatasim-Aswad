@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=flat&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
@@ -80,6 +79,7 @@
   <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
   <br />
+  <img src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black" />
