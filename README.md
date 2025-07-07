@@ -39,10 +39,13 @@
   Back-End:
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java%20Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" /><br/>
   <img src="https://img.shields.io/badge/-REST-FF6C37?style=flat&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/-gRPC-244c5a?style=flat&logo=grpc&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WebSockets-010101?style=flat&logo=socket.io&logoColor=white" />
 </p>
 
 <p align="center">
@@ -65,7 +68,6 @@
 
 <p align="center">
   <strong>Exploring, Learning, or Planning to Learn:</strong> <br><br>
-  <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" />
@@ -73,8 +75,6 @@
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
   <br />
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-WebSockets-010101?style=flat&logo=socket.io&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
