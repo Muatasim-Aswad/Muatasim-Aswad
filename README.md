@@ -104,7 +104,7 @@
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muatasim-Aswad&langs_count=8&layout=compact&theme=react" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muatasim-Aswad&langs_count=16&layout=compact&theme=react" alt="Top Languages" />
 </p>
 
 
