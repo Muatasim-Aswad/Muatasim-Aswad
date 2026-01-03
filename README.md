@@ -88,22 +88,9 @@
   <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black" />
 </p>
 
----
 
 <p align="center">
   <img src="https://github-stats-widget.malasoad2021.workers.dev/?theme=ocean" alt="GitHub Stats (ocean)" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-widget.malasoad2021.workers.dev/?theme=forest" alt="GitHub Stats (forest)" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-widget.malasoad2021.workers.dev/?theme=purple-haze" alt="GitHub Stats (purple-haze)" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-widget.malasoad2021.workers.dev/?theme=tokyo-night" alt="GitHub Stats (tokyo-night)" />
 </p>
 
 
