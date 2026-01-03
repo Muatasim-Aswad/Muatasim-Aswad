@@ -91,23 +91,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-stats-widget.malasoad2021.workers.dev/?theme=graphite" alt="GitHub Stats (graphite)" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-widget.malasoad2021.workers.dev/?theme=github-classic" alt="GitHub Stats (github-classic)" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-widget.malasoad2021.workers.dev/?theme=github-light" alt="GitHub Stats (github-light)" />
-</p>
-
-<p align="center">
   <img src="https://github-stats-widget.malasoad2021.workers.dev/?theme=ocean" alt="GitHub Stats (ocean)" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-widget.malasoad2021.workers.dev/?theme=sunset" alt="GitHub Stats (sunset)" />
 </p>
 
 <p align="center">
@@ -120,10 +104,6 @@
 
 <p align="center">
   <img src="https://github-stats-widget.malasoad2021.workers.dev/?theme=tokyo-night" alt="GitHub Stats (tokyo-night)" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-widget.malasoad2021.workers.dev/?theme=monokai" alt="GitHub Stats (monokai)" />
 </p>
 
 
