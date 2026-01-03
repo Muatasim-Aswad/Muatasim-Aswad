@@ -14,6 +14,10 @@
   <a href="https://github.com/stars/Muatasim-Aswad/lists/tech-demos">Tech Demos</a>
 </p> 
 
+<p align="center">
+  <img src="https://github-stats-widget.malasoad2021.workers.dev/?theme=ocean" alt="GitHub Stats (ocean)" />
+</p>
+
 ---
 <p align="center"><strong>Tech Stack:</strong></p>
 <p align="center">
@@ -86,11 +90,6 @@
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-stats-widget.malasoad2021.workers.dev/?theme=ocean" alt="GitHub Stats (ocean)" />
 </p>
 
 
