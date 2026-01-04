@@ -14,6 +14,8 @@
   <a href="https://github.com/stars/Muatasim-Aswad/lists/tech-demos">Tech Demos</a>
 </p> 
 
+---
+
 <p align="center">
   <img src="https://github-stats-widget.malasoad2021.workers.dev/?theme=ocean" alt="GitHub Stats (ocean)" />
 </p>
