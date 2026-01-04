@@ -2,18 +2,6 @@
   Hi there 👋 If you're interested in collaborating or discussing any projects, feel free to reach out. Happy coding! 😄
 </p>
 
-
-
-
-
----
-<p align="center"><strong>📂 Featured Repos:</strong></p>
-<p align="center">
-  👉 For my top highlighted projects, check out the <strong>Pinned section</strong> below this README. Also see:
-  <a href="https://github.com/stars/Muatasim-Aswad/lists/full-projects">Full Projects</a> – 
-  <a href="https://github.com/stars/Muatasim-Aswad/lists/tech-demos">Tech Demos</a>
-</p> 
-
 ---
 
 <p align="center">
@@ -95,6 +83,16 @@
   <img src="https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black" />
 </p>
+
+
+---
+
+<p align="center"><strong>📂 Featured Repos:</strong></p>
+<p align="center">
+  👉 Check out the <strong>Pinned section</strong> below. Also see:
+  <a href="https://github.com/stars/Muatasim-Aswad/lists/full-projects">Full Projects</a> – 
+  <a href="https://github.com/stars/Muatasim-Aswad/lists/tech-demos">Tech Demos</a>
+</p> 
 
 
 
