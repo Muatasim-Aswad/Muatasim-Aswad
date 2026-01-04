@@ -1,5 +1,5 @@
 <p align="center">
-  Hi there 👋 If you're interested in collaborating or discussing any projects, feel free to reach out. Happy coding! 😄
+  Hi there 👋 If you're interested in collaborating or discussing any projects, feel free to reach out.
 </p>
 
 ---
