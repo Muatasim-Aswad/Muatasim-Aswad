@@ -90,8 +90,7 @@
 <p align="center"><strong>📂 Featured Repos:</strong></p>
 <p align="center">
   👉 Check out the <strong>Pinned section</strong> below. Also see:
-  <a href="https://github.com/stars/Muatasim-Aswad/lists/full-projects">Full Projects</a> – 
-  <a href="https://github.com/stars/Muatasim-Aswad/lists/tech-demos">Tech Demos</a>
+  <a href="https://github.com/stars/Muatasim-Aswad/lists/full-projects">Full Projects</a>
 </p> 
 
 
