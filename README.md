@@ -1,8 +1,8 @@
 <p align="center">
-Hi, I’m Muatasim (Asim) 👋
+Hi, I’m Muatasim (Asim) 👋 <br/>
+I build full-stack applications, from API design and data modeling to interfaces and deployment.
 </p>
 
-I build full-stack applications, from API design and data modeling to interfaces and deployment.
 <p align="center">
 Many of the <a href="https://github.com/stars/Muatasim-Aswad/lists/full-projects">projects</a> here started as tools I needed myself.
 </p>
