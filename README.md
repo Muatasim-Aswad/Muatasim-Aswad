@@ -32,7 +32,4 @@ Many of the <a href="https://github.com/stars/Muatasim-Aswad/lists/full-projects
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" />
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-  <strong>·</strong>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CI/CD-FF9900?style=flat&logo=githubactions&logoColor=white" />
 </p>
