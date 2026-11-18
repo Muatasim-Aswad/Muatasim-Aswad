@@ -3,10 +3,9 @@ I build full-stack applications, with a focus on API design, data modeling, and 
 👉 Many of the projects here started as tools I needed myself.
 Check out the <strong>Pinned section</strong> below and see: [Full Projects](https://github.com/stars/Muatasim-Aswad/lists/full-projects)
 <br/>
-<p>
+<p align="center">
   <img src="https://github-stats-widget.malasoad2021.workers.dev/?theme=ocean" alt="GitHub Stats (ocean)" />
 </p>
-<br/>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
