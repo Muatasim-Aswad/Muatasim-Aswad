@@ -2,7 +2,7 @@
 Hi, I’m Muatasim (Asim) 👋
 </p>
 
-I build full-stack applications, from API design and data modeling to interfaces and deployment. My mechatronics background shapes how I approach software: understanding how the parts fit together and how the whole system behaves. 
+I build full-stack applications, from API design and data modeling to interfaces and deployment.
 <p align="center">
 Many of the <a href="https://github.com/stars/Muatasim-Aswad/lists/full-projects">projects</a> here started as tools I needed myself.
 </p>
