@@ -24,9 +24,7 @@ Check out the <strong>Pinned section</strong> below and see: [Full Projects](htt
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-</p>
-
-<p>
+  <strong>.</strong>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat&logo=nestjs&logoColor=white" />
@@ -40,9 +38,7 @@ Check out the <strong>Pinned section</strong> below and see: [Full Projects](htt
   <img src="https://img.shields.io/badge/-gRPC-244c5a?style=flat&logo=grpc&logoColor=white" />
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/-WebSockets-010101?style=flat&logo=socket.io&logoColor=white" />
-</p>
-
-<p>  
+  <strong>.</strong>
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
