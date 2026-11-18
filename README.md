@@ -1,8 +1,8 @@
-Hi, I’m Muatasim (Asim) 👋 <br/> <br/>
-I build full-stack applications, with a focus on API design, data modeling, and reliable behavior. My mechatronics background shapes how I think about systems and how their parts work together. <br/><br/>
-👉 Many of the projects here started as tools I needed myself.
-Check out the <strong>Pinned section</strong> below and see: [Full Projects](https://github.com/stars/Muatasim-Aswad/lists/full-projects)
-<br/>
+Hi, I’m Muatasim (Asim) 👋
+
+I build full-stack applications, from API design and data modeling to interfaces and deployment. My mechatronics background shapes how I approach software: understanding how the parts fit together and how the whole system behaves. 
+
+Many of the [projects](https://github.com/stars/Muatasim-Aswad/lists/full-projects) here started as tools I needed myself. <br/>
 <p align="center">
   <img src="https://github-stats-widget.malasoad2021.workers.dev/?theme=ocean" alt="GitHub Stats (ocean)" />
 </p>
