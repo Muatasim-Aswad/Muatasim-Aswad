@@ -1,4 +1,12 @@
-
+Hi, I’m Muatasim (Asim) 👋 <br/> <br/>
+I build full-stack applications, with a focus on API design, data modeling, and reliable behavior. My mechatronics background shapes how I think about systems and how their parts work together. <br/><br/>
+👉 Many of the projects here started as tools I needed myself.
+Check out the <strong>Pinned section</strong> below and see: [Full Projects](https://github.com/stars/Muatasim-Aswad/lists/full-projects)
+<br/>
+<p>
+  <img src="https://github-stats-widget.malasoad2021.workers.dev/?theme=ocean" alt="GitHub Stats (ocean)" />
+</p>
+<br/>
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -45,13 +53,4 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-CI/CD-FF9900?style=flat&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" />
-</p>
----
-Hi, I’m Muatasim (Asim) 👋 <br/> <br/>
-I build full-stack applications, with a focus on API design, data modeling, and reliable behavior. My mechatronics background shapes how I think about systems and how their parts work together. <br/><br/>
-👉 Many of the projects here started as tools I needed myself.
-Check out the <strong>Pinned section</strong> below and see: [Full Projects](https://github.com/stars/Muatasim-Aswad/lists/full-projects)
-
-<p>
-  <img src="https://github-stats-widget.malasoad2021.workers.dev/?theme=ocean" alt="GitHub Stats (ocean)" />
 </p>
