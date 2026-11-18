@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/-CI/CD-FF9900?style=flat&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" />
 </p>
-
+---
 Hi, I’m Muatasim (Asim) 👋 <br/> <br/>
 I build full-stack applications, with a focus on API design, data modeling, and reliable behavior. My mechatronics background shapes how I think about systems and how their parts work together. <br/><br/>
 👉 Many of the projects here started as tools I needed myself.
