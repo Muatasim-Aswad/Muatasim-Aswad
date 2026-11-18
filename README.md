@@ -46,7 +46,7 @@ Check out the <strong>Pinned section</strong> below and see: [Full Projects](htt
   <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/-Drizzle%20ORM-C5F74F?style=flat&logo=drizzle&logoColor=black" />
   <img src="https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" />
-  <strong>.</strong>
+  <strong>·</strong>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
