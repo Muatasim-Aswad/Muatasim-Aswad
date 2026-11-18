@@ -1,23 +1,14 @@
-<p align="center">
-  Hi there 👋 If you're interested in collaborating or discussing any projects, feel free to reach out.
-</p>
 
+Hi, I’m Muatasim (Asim) 👋 <br/> <br/>
+I build full-stack applications, with a focus on API design, data modeling, and reliable behavior. My mechatronics background shapes how I think about systems and how their parts work together. <br/><br/>
+👉 Many of the projects here started as tools I needed myself.
+Check out the <strong>Pinned section</strong> below and see: [Full Projects](https://github.com/stars/Muatasim-Aswad/lists/full-projects)
 
-<p align="center">
-  <strong>📂 Featured Repos:</strong>
-  👉 Check out the <strong>Pinned section</strong> below. Also see:
-  <a href="https://github.com/stars/Muatasim-Aswad/lists/full-projects">Full Projects</a>
-</p> 
-
----
-
-<p align="center">
+<p>
   <img src="https://github-stats-widget.malasoad2021.workers.dev/?theme=ocean" alt="GitHub Stats (ocean)" />
 </p>
 
----
-
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
@@ -26,10 +17,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
-</p>
-
-
-<p align="center">
+  <strong>.</strong>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
@@ -38,7 +26,7 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat&logo=nestjs&logoColor=white" />
@@ -47,29 +35,27 @@
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
-  <br/>
+  <strong>.</strong>
   <img src="https://img.shields.io/badge/-REST-FF6C37?style=flat&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/-gRPC-244c5a?style=flat&logo=grpc&logoColor=white" />
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/-WebSockets-010101?style=flat&logo=socket.io&logoColor=white" />
 </p>
 
-<p align="center">  
+<p>  
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" />
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <strong>.</strong>
   <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/-Drizzle%20ORM-C5F74F?style=flat&logo=drizzle&logoColor=black" />
   <img src="https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" />
-</p>
-
-<p align="center">
+  <strong>.</strong>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-CI/CD-FF9900?style=flat&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 </p>
