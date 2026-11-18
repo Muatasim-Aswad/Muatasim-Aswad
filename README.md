@@ -1,8 +1,11 @@
+<p align="center">
 Hi, I’m Muatasim (Asim) 👋
+</p>
 
 I build full-stack applications, from API design and data modeling to interfaces and deployment. My mechatronics background shapes how I approach software: understanding how the parts fit together and how the whole system behaves. 
-
-Many of the [projects](https://github.com/stars/Muatasim-Aswad/lists/full-projects) here started as tools I needed myself. <br/>
+<p align="center">
+Many of the <a href="https://github.com/stars/Muatasim-Aswad/lists/full-projects">projects</a> here started as tools I needed myself.
+</p>
 <p align="center">
   <img src="https://github-stats-widget.malasoad2021.workers.dev/?theme=ocean" alt="GitHub Stats (ocean)" />
 </p>
